@@ -22,7 +22,7 @@
  </tr>
  <tr>
    <!-- Caption cells -->
-   <td align="center" width="50%"><em>Figure 3: For comparison, we include the camera trajectory and reconstructed scene (shown in blue) by ANM method [1] in the challenging scene HxpKQ of MP3D dataset. The starting camera pose is the same as in Figure 2. However, the agent gets stuck near the bed, failing to conduct effective exploration. The figure is sourced from ANM supplementary material.</em></td>
+   <td align="center" width="50%"><em>Figure 3: For comparison, we include the camera trajectory and reconstructed scene (shown in blue) by ANM method [1] in the same scene HxpKQ of MP3D dataset. The starting camera pose is the same as in Figure 2. However, the agent gets stuck near the bed, failing to conduct effective exploration. The figure is sourced from ANM supplementary material.</em></td>
    <td align="center" width="50%"><em>Figure 4: Ground truth mesh of scene HxpKQ.</em></td>
  </tr>
 </table>
