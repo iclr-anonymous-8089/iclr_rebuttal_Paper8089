@@ -1,4 +1,4 @@
-# iclr_rebuttal_Paper8089
+# ICLR_Rebuttal_Paper8089
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iclr-anonymous-8089/iclr_rebuttal_Paper8089/main/figures/ours_GdvgFV5R1Z5.png" alt="ours_GdvgFV5R1Z5" width="70%">
