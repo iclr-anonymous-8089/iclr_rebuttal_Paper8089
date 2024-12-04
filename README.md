@@ -14,10 +14,18 @@
 
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iclr-anonymous-8089/iclr_rebuttal_Paper8089/main/figures/ANM [1]_HxpKQ* .png" alt="ANM [1]_HxpKQ* " width="60%">
-  <br>
-  <em>Figure 3: For comparison, we include the camera trajectory and reconstructed scene by ANM method [1] in the same challenging scene HxpKQ of MP3D dataset. The starting camera pose is the same as in Figure 2. However, the agent gets stuck near the bed, failing to conduct effective exploration. The figure is sourced from ANM supplementary material. </em>
-</p>
+<table align="center" width="100%">
+ <tr>
+   <!-- Image cells -->
+   <td width="50%"><img src="https://raw.githubusercontent.com/iclr-anonymous-8089/iclr_rebuttal_Paper8089/main/figures/ANM [1]_HxpKQ* .png" alt="ANM [1]_HxpKQ*" style="width:100%; height:auto;"></td>
+   <td width="50%"><img src="https://raw.githubusercontent.com/iclr-anonymous-8089/iclr_rebuttal_Paper8089/main/figures/gt_HxpKQ.png" alt="gt_HxpKQ" style="width:100%; height:auto;"></td>
+ </tr>
+ <tr>
+   <!-- Caption cells -->
+   <td align="center" width="50%"><em>Figure 3: For comparison, we include the camera trajectory and reconstructed scene (shown in blue) by ANM method [1] in the challenging scene HxpKQ of MP3D dataset. The starting camera pose is the same as in Figure 2. However, the agent gets stuck near the bed, failing to conduct effective exploration. The figure is sourced from ANM supplementary material.</em></td>
+   <td align="center" width="50%"><em>Figure 4: Ground truth mesh of scene HxpKQ.</em></td>
+ </tr>
+</table>
+
 
 [1] Yan, Zike, Haoxiang Yang, and Hongbin Zha. "Active neural mapping." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.
